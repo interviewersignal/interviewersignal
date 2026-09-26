@@ -18,7 +18,7 @@ Windows 10 and 11, macOS 13 or newer. Free for 20 minutes with no card.
 
 ### Free templates
 
-[interview-templates](https://github.com/InterviewerAI/interview-templates): scorecard, rating scale, candidate submittal, phone
+[interview-templates](https://github.com/interviewersignal/interview-templates): scorecard, rating scale, candidate submittal, phone
 screen, intake questions, debrief, reference check and recording consent scripts, free to copy.
 
 ### How it compares
